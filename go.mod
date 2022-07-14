@@ -1,3 +1,3 @@
-module ioos
+module solution
 
 go 1.16
